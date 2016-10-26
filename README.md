@@ -1,5 +1,3 @@
-
-
 Kata: Earthquake monitoring
 ===========================
 
@@ -10,12 +8,13 @@ In order to help scientists understand earthquakes better, an international moni
 system is in place to record where earthquakes occur and how powerful they are. 
 
 Earthquake strength is measured by the ‘magnitude moment’: 
-- earthquakes of magnitude three or lower usually imperceptible 
+- earthquakes of magnitude three or lower are usually imperceptible.
 - those with magnitude seven and over can cause serious damage over large areas. 
 
 National seismological observatories record earthquakes that occur. 
 
 Problem specification
+
 ---------------------
 
 Define Data Structures and Functions to store and retrieve information about the magnitude, 
@@ -37,7 +36,7 @@ position (latitude and longitude) and year of the event.
 
 ### Define `Monitoring` 
 
-Provides access to information about all observatories
+Provides access to information about all observatories.
 
 #### Include functions to return:
   - The observatory with the largest average earthquake magnitude
